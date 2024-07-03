@@ -1,7 +1,7 @@
 # BLOOD BANK MANAGEMENT SYSTEM
 
 ## Getting Started
-This a blood bank management sysytem that has been made by Tamanna Dash. This project overviews about the process of blood bank management.
+The Blood Bank Management System is an efficient and user-friendly solution designed to manage the operations of a blood bank. This system facilitates the seamless handling of donor registrations, blood inventory tracking, and the management of blood requests, ensuring that the right blood type is available at the right time.
 
 
 ### Project File Structure
