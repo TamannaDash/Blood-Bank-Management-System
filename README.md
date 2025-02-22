@@ -20,7 +20,7 @@ The primary aim of this system is to enhance the efficiency of blood banks by au
 1.Streamlines blood bank operations
 2.Improves accuracy and reliability of data
 3.Enhances donor and patient satisfaction
-4.Provides valuable insights through reporting
+4.Provides valuable insights through reporting and prediction
 
 ### Project File Structure
 
